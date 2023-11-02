@@ -1,0 +1,11 @@
+Added Coins
+
+Coins Added: 200
+
+Prev Coins: 0
+
+Current Coins: 200
+
+Reason Given: Because I Played Java World
+
+Date: 11/1/2023, Around 8:30 PM
