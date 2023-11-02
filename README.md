@@ -1,1 +1,1 @@
-This is for keeping track of coins added!
+This is for keeping track of coins removed!
