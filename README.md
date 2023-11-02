@@ -5,8 +5,13 @@ Template
 --------------------------
 
 Added Coins
+
 Coins Added: -
+
 Prev Coins: -
+
 Current Coins: -
+
 Reason Given: -
+
 Date: -
