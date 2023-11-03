@@ -1,0 +1,11 @@
+Added Coins
+
+Coins Added: 300
+
+Prev Coins: 200
+
+Current Coins: 500
+
+Reason Given: Ate Goofy Food
+
+Date: 11/2/23
