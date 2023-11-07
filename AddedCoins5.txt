@@ -2,9 +2,9 @@ Added Coins
 
 Coins Added: 250
 
-Prev Coins: 700
+Prev Coins: 1200
 
-Current Coins: 950
+Current Coins: 1450
 
 Reason Given: Turny Bot Job
 
