@@ -1,1 +1,11 @@
+Added Coins
 
+Coins Added: 300
+
+Prev Coins: 4370
+
+Current Coins: 4670
+
+Reason Given: Testing Logs
+
+Date: 11/15/23
