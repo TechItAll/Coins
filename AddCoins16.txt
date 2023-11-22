@@ -2,10 +2,10 @@ Added Coins
 
 Coins Added: 3000
 
-Prev Coins: -
+Prev Coins: 7610
 
-Current Coins: -
+Current Coins: 10610
 
-Reason Given: -
+Reason Given: 3x Living Legend In WR
 
-Date: -
+Date: 11/22/23
