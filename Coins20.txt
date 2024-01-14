@@ -1,0 +1,11 @@
+Added Coins
+
+Coins Added: 200
+
+Prev Coins: 12560
+
+Current Coins: 12760
+
+Reason Given: Alphebetize server dictonary
+
+Date: 1/13/24 8:57 PM
